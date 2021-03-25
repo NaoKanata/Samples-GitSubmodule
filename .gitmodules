@@ -1,3 +1,4 @@
 [submodule "sub"]
 	path = sub
-	url = ./sub
+	url = git@github.com:NaoKanata/Samples-GitSubmodule-subdir.git
+
